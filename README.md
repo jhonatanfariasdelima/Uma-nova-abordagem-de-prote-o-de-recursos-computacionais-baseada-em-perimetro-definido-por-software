@@ -1,0 +1,1 @@
+# Uma-nova-abordagem-de-prote-o-de-recursos-computacionais-baseada-em-perimetro-definido-por-software
